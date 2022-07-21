@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ### 👋 Hi, I am Taewan Ham.
-##### I am currently studying Electrical & Electronic Engineering in Yonsei univeristy.
-##### I am currently interested in Computational Neuroscience, Computer Graphics and Computer Vision.
-##### How to reach me: 📧 wani7@yonsei.ac.kr / ✍️ [My personal blog](https://wani7.tistory.com/)
+#### I am currently studying Electrical & Electronic Engineering in Yonsei univeristy.
+#### I am currently interested in Computational Neuroscience, Computer Graphics and Computer Vision.
+#### How to reach me: 📧 wani7@yonsei.ac.kr / ✍️ [My personal blog](https://wani7.tistory.com/)
