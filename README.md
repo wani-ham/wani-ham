@@ -1,4 +1,4 @@
-### Hi there 👋
+ 
 
 <!--
 **wani-ham/wani-ham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi, I am Taewan Ham.
+# I am currently studying Electrical & Electronic Engineering in Yonsei univeristy.
+# I am currently interested in Computational Neuroscience, Computer Graphics, Computer Vision
+# How to reach me: 📧 wani7@yonsei.ac.kr / ✍️ https://wani7.tistory.com/
