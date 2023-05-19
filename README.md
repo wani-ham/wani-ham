@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ### 👋 Hi, I am Taewan Ham.
 #### I am studying Electrical & Electronic Engineering at Yonsei Univeristy.
 #### I am currently interested in Computational Neuroscience and Computer Graphics.
-#### How to reach me: 📧 wani7@yonsei.ac.kr / ✍️ [My personal blog](https://wani7.tistory.com/)
+#### How to reach me: 📧 wani7@yonsei.ac.kr / ✍️ [My personal blog](https://tayham.notion.site/Tay-T-Ham-581e32d5aa08460aaf86ea6c8b87c27a)
