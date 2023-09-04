@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 👋 Hi, I am Taewan Ham.
 #### I am studying Electrical & Electronic Engineering at Yonsei Univeristy.
-#### I am currently interested in Computer Graphics, Web development and Game development.
+#### I am currently interested in Computer Graphics, Web development.
 #### 📧 wani7@yonsei.ac.kr / ✍️ [My Personal Blog](https://blog.naver.com/waniham)
 ####
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wani-ham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
