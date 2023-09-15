@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hi, I am Taewan Ham.
+### 👋 Hi, I am Tay (Taewan) Ham.
 #### I am studying Electrical & Electronic Engineering at Yonsei Univeristy.
 #### I am currently interested in Computer Graphics, Web development.
 #### 📧 wani7@yonsei.ac.kr / ✍️ [My Personal Blog](https://blog.naver.com/waniham)
