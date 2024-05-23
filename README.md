@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 #### I'm studying Electrical & Electronic Engineering at Yonsei Univeristy.
 #### I'm currently interested in Frontend Development, Interaction Design and Computer Graphics.
 #### I like to... 📽️ watch movie, 📖 read books ([Letterboxd](https://boxd.it/4hKpH) / [Watchapedia](https://pedia.watcha.com/ko-KR/users/djaxbrE98AxLw)) and 📷 shoot pictures ([Instagram](https://www.instagram.com/wanipic/)). 
-#### 📧 wani7@yonsei.ac.kr / [My Website (CV)](https://wani-ham.github.io/) / ✍️ [My Personal Blog](https://blog.naver.com/waniham)
+#### 📧 wani7@yonsei.ac.kr / [My Tech. Blog]([https://wani-ham.github.io/](https://velog.io/@wani-ham/)) / ✍️ [My Personal Blog](https://blog.naver.com/waniham)
 ####
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wani-ham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
