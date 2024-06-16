@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 #### I like to... 📽️ watch movie, 📖 read books ([Letterboxd](https://boxd.it/4hKpH) / [Watchapedia](https://pedia.watcha.com/ko-KR/users/djaxbrE98AxLw)) and 📷 shoot pictures ([Instagram](https://www.instagram.com/wanipic/)). 
 #### 📧 wani7@yonsei.ac.kr / 💻 [My Tech. Blog](https://velog.io/@wani-ham/) / ✍️ [My Personal Blog](https://blog.naver.com/waniham)
 ####
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wani-ham&size_weight=0.5&count_weight=0.5)
