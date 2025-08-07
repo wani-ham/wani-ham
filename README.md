@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### 👋 Hi, I am Taewan (Tay) Ham.
-#### I'm studying Electrical & Electronic Engineering at Yonsei Univeristy.
-#### I'm currently interested in Frontend Development, Interaction Design and Computer Graphics.
+#### I'm studying Electrical & Electronic Engineering at Yonsei University.
+#### I'm currently interested in Quantum Computing.
 #### I like to... 📽️ watch movie, 📖 read books ([Letterboxd](https://boxd.it/4hKpH) / [Watchapedia](https://pedia.watcha.com/ko-KR/users/djaxbrE98AxLw)) and 📷 shoot pictures ([Instagram](https://www.instagram.com/wanipic/)). 
 #### 📧 wani7@yonsei.ac.kr / 💻 [My Tech. Blog](https://velog.io/@wani-ham/) / ✍️ [My Personal Blog](https://blog.naver.com/waniham)
 ####
